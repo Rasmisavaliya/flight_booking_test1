@@ -1,0 +1,148 @@
+2023-07-18 14:07:339 INFO  FlightInfoPage :45 - Click on FlightLink[[ChromeDriver: chrome on WINDOWS (e60d9d6a90f305279a7762173a74bebc)] -> id: flights]
+2023-07-18 14:07:659 INFO  FlightInfoPage :45 - Click on FlightLink[[ChromeDriver: chrome on WINDOWS (0e4b4f7dacb3adf670e360383c55166b)] -> id: flights]
+2023-07-18 14:07:679 INFO  RegisterPage :61 - Enter email [[ChromeDriver: chrome on WINDOWS (a62db2bc1cff7889939b3c0cbb0013cb)] -> id: username]
+2023-07-18 14:07:872 INFO  FlightInfoPage :45 - Click on FlightLink[[ChromeDriver: chrome on WINDOWS (ee11a4fbdde23586e45f216a593bbd78)] -> id: flights]
+2023-07-18 14:07:485 INFO  FlightInfoPage :45 - Click on FlightLink[[ChromeDriver: chrome on WINDOWS (b33ec1205d08d5b15672ece34aa6dc6a)] -> id: flights]
+2023-07-18 14:07:154 INFO  RegisterPage :61 - Enter email [[ChromeDriver: chrome on WINDOWS (17f111ad37e7bc84ab4e8054b6383b62)] -> id: username]
+2023-07-18 15:07:472 INFO  RegisterPage :61 - Enter email [[ChromeDriver: chrome on WINDOWS (b7f85dfa2ee0147a087bcfce4404a35b)] -> id: username]
+2023-07-18 15:07:960 INFO  AttractionPage :90 - select date from Calender
+2023-07-18 15:07:407 INFO  AttractionPage :90 - select date from Calender
+2023-07-18 15:07:944 INFO  FlightInfoPage :45 - Click on FlightLink[[ChromeDriver: chrome on WINDOWS (394b1dbb55dc0ec917a1f12600b50daa)] -> id: flights]
+2023-07-18 15:07:460 INFO  FlightInfoPage :45 - Click on FlightLink[[ChromeDriver: chrome on WINDOWS (833d96a8556bf60afae15875ac0477cd)] -> id: flights]
+2023-07-18 15:07:866 INFO  AttractionPage :90 - select date from Calender
+2023-07-18 15:07:443 INFO  RegisterPage :61 - Enter email [[ChromeDriver: chrome on WINDOWS (ceab61edcf42013898f01d554240db12)] -> id: username]
+2023-07-18 17:07:34 INFO  FlightInfoPage :45 - Click on FlightLink
+2023-07-18 17:07:416 INFO  FlightInfoPage :59 - click on cookies
+2023-07-18 17:07:484 INFO  FlightInfoPage :49 - click on where to box
+2023-07-18 17:07:735 INFO  FlightInfoPage :55 - click on checkbox
+2023-07-18 17:07:391 INFO  FlightInfoPage :64 - click on search button
+2023-07-18 17:07:960 INFO  FlightInfoPage :45 - Click on FlightLink
+2023-07-18 17:07:242 INFO  FlightInfoPage :59 - click on cookies
+2023-07-18 17:07:290 INFO  FlightInfoPage :49 - click on where to box
+2023-07-18 17:07:478 INFO  FlightInfoPage :55 - click on checkbox
+2023-07-18 17:07:74 INFO  FlightInfoPage :64 - click on search button
+2023-07-18 17:07:949 INFO  FilterInfoPage :36 - click on Directonly button
+2023-07-18 17:07:88 INFO  FilterInfoPage :41 - verify text airlines
+2023-07-18 17:07:746 INFO  AttractionPage :66 - click on attraction button
+2023-07-18 17:07:580 INFO  AttractionPage :71 - enter location
+2023-07-18 17:07:798 INFO  FlightInfoPage :59 - click on cookies
+2023-07-18 17:07:849 INFO  AttractionPage :75 - click on select your dates box
+2023-07-18 17:07:886 INFO  AttractionPage :96 - select date from Calender
+2023-07-18 17:07:77 INFO  FlightInfoPage :59 - click on cookies
+2023-07-18 17:07:136 INFO  AttractionPage :82 - click on search button
+2023-07-18 17:07:232 INFO  AttractionPage :91 - click on london UK Button
+2023-07-18 17:07:295 INFO  AttractionPage :87 - verify text Nearbydestinations
+2023-07-18 17:07:551 INFO  FlightInfoPage :59 - click on cookies
+2023-07-18 17:07:928 INFO  RegisterPage :44 - click on register button
+2023-07-18 17:07:111 INFO  RegisterPage :49 - fill in email
+2023-07-18 17:07:130 INFO  RegisterPage :56 - Enter email [[ChromeDriver: chrome on WINDOWS (7b61eecaf62488e04912cd8391affef7)] -> id: username]
+2023-07-18 17:07:311 INFO  RegisterPage :61 - click on continue with email
+2023-07-18 17:07:363 INFO  RegisterPage :67 - enter password
+2023-07-18 17:07:436 INFO  RegisterPage :72 - enter confirm password
+2023-07-18 17:07:528 INFO  RegisterPage :77 - click on create account button
+2023-07-19 15:07:704 INFO  AttractionPage :47 - click on attraction button
+2023-07-19 15:07:166 INFO  AttractionPage :51 - enter location
+2023-07-19 15:07:385 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:439 INFO  AttractionPage :55 - click on select your dates box
+2023-07-19 15:07:480 INFO  AttractionPage :72 - select date from Calender
+2023-07-19 15:07:688 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:734 INFO  AttractionPage :60 - click on search button
+2023-07-19 15:07:843 INFO  AttractionPage :68 - click on london UK Button
+2023-07-19 15:07:912 INFO  AttractionPage :64 - verify text Nearbydestinations
+2023-07-19 15:07:479 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:774 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:812 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:07 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:641 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:418 INFO  FilterInfoPage :21 - click on Directonly button
+2023-07-19 15:07:435 INFO  FilterInfoPage :26 - verify text airlines
+2023-07-19 15:07:114 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:382 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:421 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:619 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:373 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:321 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:721 INFO  RegisterPage :38 - click on register button
+2023-07-19 15:07:769 INFO  RegisterPage :42 - fill in email
+2023-07-19 15:07:787 INFO  RegisterPage :49 - Enter email [[ChromeDriver: chrome on WINDOWS (bd0ef1cba795cfb86d3d79eed94a8230)] -> id: username]
+2023-07-19 15:07:982 INFO  RegisterPage :53 - click on continue with email
+2023-07-19 15:07:39 INFO  RegisterPage :58 - enter password
+2023-07-19 15:07:110 INFO  RegisterPage :62 - enter confirm password
+2023-07-19 15:07:225 INFO  RegisterPage :66 - click on create account button
+2023-07-19 15:07:639 INFO  AttractionPage :47 - click on attraction button
+2023-07-19 15:07:34 INFO  AttractionPage :51 - enter location
+2023-07-19 15:07:704 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:759 INFO  AttractionPage :55 - click on select your dates box
+2023-07-19 15:07:798 INFO  AttractionPage :72 - select date from Calender
+2023-07-19 15:07:01 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:56 INFO  AttractionPage :60 - click on search button
+2023-07-19 15:07:171 INFO  AttractionPage :68 - click on london UK Button
+2023-07-19 15:07:241 INFO  AttractionPage :64 - verify text Nearbydestinations
+2023-07-19 15:07:961 INFO  AttractionPage :47 - click on attraction button
+2023-07-19 15:07:03 INFO  AttractionPage :51 - enter location
+2023-07-19 15:07:242 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:294 INFO  AttractionPage :55 - click on select your dates box
+2023-07-19 15:07:339 INFO  AttractionPage :72 - select date from Calender
+2023-07-19 15:07:548 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:589 INFO  AttractionPage :60 - click on search button
+2023-07-19 15:07:706 INFO  AttractionPage :68 - click on london UK Button
+2023-07-19 15:07:771 INFO  AttractionPage :64 - verify text Nearbydestinations
+2023-07-19 15:07:640 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:212 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:251 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:451 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:47 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:872 INFO  FilterInfoPage :21 - click on Directonly button
+2023-07-19 15:07:36 INFO  FilterInfoPage :26 - verify text airlines
+2023-07-19 15:07:822 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:76 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:113 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:304 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:996 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:764 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:896 INFO  RegisterPage :38 - click on register button
+2023-07-19 15:07:959 INFO  RegisterPage :42 - fill in email
+2023-07-19 15:07:983 INFO  RegisterPage :49 - Enter email [[ChromeDriver: chrome on WINDOWS (64ee414fc1e6a46dd037c1561fa56981)] -> id: username]
+2023-07-19 15:07:208 INFO  RegisterPage :53 - click on continue with email
+2023-07-19 15:07:266 INFO  RegisterPage :58 - enter password
+2023-07-19 15:07:347 INFO  RegisterPage :62 - enter confirm password
+2023-07-19 15:07:452 INFO  RegisterPage :66 - click on create account button
+2023-07-19 15:07:351 INFO  AttractionPage :47 - click on attraction button
+2023-07-19 15:07:761 INFO  AttractionPage :51 - enter location
+2023-07-19 15:07:914 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:965 INFO  AttractionPage :55 - click on select your dates box
+2023-07-19 15:07:10 INFO  AttractionPage :72 - select date from Calender
+2023-07-19 15:07:212 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:258 INFO  AttractionPage :60 - click on search button
+2023-07-19 15:07:358 INFO  AttractionPage :68 - click on london UK Button
+2023-07-19 15:07:423 INFO  AttractionPage :64 - verify text Nearbydestinations
+2023-07-19 15:07:737 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:977 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:16 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:233 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:818 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:774 INFO  FilterInfoPage :21 - click on Directonly button
+2023-07-19 15:07:938 INFO  FilterInfoPage :26 - verify text airlines
+2023-07-19 15:07:318 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:72 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:120 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:303 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:868 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:108 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:84 INFO  RegisterPage :38 - click on register button
+2023-07-19 15:07:525 INFO  RegisterPage :42 - fill in email
+2023-07-19 15:07:547 INFO  RegisterPage :49 - Enter email [[ChromeDriver: chrome on WINDOWS (e86b5c23b4d25a2fbd792420c202c4f3)] -> id: username]
+2023-07-19 15:07:755 INFO  RegisterPage :53 - click on continue with email
+2023-07-19 15:07:806 INFO  RegisterPage :58 - enter password
+2023-07-19 15:07:884 INFO  RegisterPage :62 - enter confirm password
+2023-07-19 15:07:998 INFO  RegisterPage :66 - click on create account button
+2023-07-19 15:07:922 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:413 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:461 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:672 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:387 INFO  FlightInfoPage :51 - click on search button
+2023-07-19 15:07:739 INFO  FlightInfoPage :32 - Click on FlightLink
+2023-07-19 15:07:281 INFO  FlightInfoPage :46 - click on cookies
+2023-07-19 15:07:356 INFO  FlightInfoPage :36 - click on where to box
+2023-07-19 15:07:561 INFO  FlightInfoPage :42 - click on checkbox
+2023-07-19 15:07:234 INFO  FlightInfoPage :51 - click on search button

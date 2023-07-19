@@ -1,0 +1,100 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4442252900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.steUp()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Check Flight Availability",
+        "description": "",
+        "id": "flight-availability;check-flight-availability",
+        "after": [
+          {
+            "result": {
+              "duration": 88700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4809118800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on the flight search page",
+            "match": {
+              "location": "FlightInfoSteps.iAmOnTheFlightSearchPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1764671600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I search for flights from \"\u003corigin\u003e\" to \"\u003cdestination\u003e\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u003corigin\u003e",
+                  "offset": 27
+                },
+                {
+                  "val": "\u003cdestination\u003e",
+                  "offset": 41
+                }
+              ],
+              "location": "FlightInfoSteps.iSearchForFlightsFromTo(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 56500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see available flights",
+            "match": {
+              "location": "FlightInfoSteps.iShouldSeeAvailableFlights()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@smoke"
+          },
+          {
+            "line": 6,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Flight Availability",
+    "description": "As a user\r\nI want to check if flights are available between any two destinations\r\nSo that I can plan my travel",
+    "id": "flight-availability",
+    "keyword": "Feature",
+    "uri": "flightinfo.feature"
+  }
+]
